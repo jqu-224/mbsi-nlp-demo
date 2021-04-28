@@ -1,7 +1,7 @@
-name: mbsi_jessq
+name: mbsi_jqu224
 channels:
-  - conda
+    - conda
 dependencies:
-  - python=3.8
-  - pip
-  - nltk==3.6.2
+    - python=3.8
+    - pip
+    - nltk==3.6.2
