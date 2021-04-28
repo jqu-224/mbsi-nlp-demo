@@ -1,0 +1,7 @@
+name: mbsi_jessq
+channels:
+  - conda
+dependencies:
+  - python=3.8
+  - pip
+  - nltk==3.6.2
